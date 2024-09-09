@@ -1,22 +1,22 @@
-# BotSupporterTemplate
+# BotSupporterTemplate 🤖
 
 **BotSupporterTemplate** é um chatbot desenvolvido em TypeScript utilizando a API da Gemini para processamento de linguagem natural e a SDK do WhatsApp para integração de mensagens. O objetivo é criar uma solução eficiente e escalável para automação de atendimento via WhatsApp.
 
-## Funcionalidades
+## Funcionalidades 🔨
 
 - Processamento inteligente de mensagens via API Gemini
 - Integração direta com a plataforma WhatsApp usando a SDK oficial
 - Automação de respostas e suporte em tempo real
 - Fácil personalização e expansão
 
-## Requisitos
+## Requisitos 👨‍💻
 
 - Node.js (v14 ou superior)
 - TypeScript
 - Conta Gemini API
 - Conta Meta Business
 
-## Instalação
+## Instalação ⬇
 
 1. Clone o repositório:
 
@@ -45,10 +45,10 @@
    npm start
    ```
 
-## Uso
+## Uso 🤔
 
 O chatbot pode ser personalizado para diferentes cenários de atendimento ao cliente. A lógica de resposta pode ser configurada dentro dos arquivos de controle de fluxo.
 
-## Contribuição
+## Contribuição 🤝
 
 Contribuições são bem-vindas! Para sugerir melhorias ou reportar problemas, abra uma issue ou envie um pull request.
